@@ -4,24 +4,21 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://mirror-fact.github.io/wanglu.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Wang Lu (王禄)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am a Research Associate in the [Group of Professor Wang Guanqun in CUHK](https://www.sls.cuhk.edu.hk/index.php/faculty-and-staff/teaching-staff/99-sls/faculty-and-staff/teaching-staff/786-professor-wang-guanqun)
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **wanglu_jx@126.com**
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- [single cell RNA-seq of plant]
+- [small RNA in plant](https://onlinelibrary.wiley.com/doi/10.1111/pce.15460)
+- [rice virus](https://www.sciencedirect.com/science/article/pii/S221451412100057X?via%3Dihub)
 
 ---
 

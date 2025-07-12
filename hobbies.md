@@ -4,50 +4,24 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
+My interests and hobbies are very diverse. I enjoy sports such as football and basketball, I like music, I can play the guitar, I love painting, and I enjoy photography. It seems that I like all the beautiful things in the world.
 
 # Hobbies
 
-## Swimming & Surfing
+## Guitar & football
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/guitar1.jpg">
+<img src="/images/guitar2.jpg">
+<img src="/images/football.jpg">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>I enjoy listening to music. I like all kinds of styles of music, but my favorite is still **pure music**. I also like the feeling of instrumental performances. Therefore, I taught myself to play the **guitar**. Since I was a child, I have loved sports. After school, I always made arrangements with my friends to play **basketball** or **football**. In summer, I would go **swimming**. 
 
-## Workshop
+## photography
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/20250321L1040.jpg">
+<img src="/images/20250531P1012440.jpg">
+<img src="/images/20250531P1012489.jpg">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+<br>Some people say you don't know photography, but you must document your life. It doesn't matter if your photos aren't good. Not being able to record something is the most regrettable thing because even after the event, it's impossible to imagine it again. When you press the shutter, time stands still here. The significance of images lies in turning the enjoyable moments into an eternity. When you look back and recall your emotions at that time, it will make this memory more concrete and vivid.
